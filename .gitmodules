@@ -1,0 +1,6 @@
+[submodule "java"]
+	path = java
+	url = https://github.com/jithinchacko/mavenjavacode.git
+[submodule "arm"]
+	path = arm
+	url = https://github.com/jithinchacko/ARM.git
